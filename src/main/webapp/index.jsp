@@ -17,7 +17,7 @@
 
     <br><label>
     Apellidos>
-    <input type="text" name="apellido" autofocus pattern="[A-Za-z]{2,30}" placeholder="Ingrese sus Apellidos"><br>
+    <input type="text" name="apellido"  pattern="[A-Za-z]{2,30}" placeholder="Ingrese sus Apellidos"><br>
 </label><br>
 
     <br><label>
@@ -27,12 +27,12 @@
 
     <br><label>
     Dias trabajados<br>
-    <br><input type="number"  name="dias" autofocus  placeholder=" Ingrese Dias trabajados"><br>
+    <br><input type="number"  name="dias"   placeholder=" Ingrese Dias trabajados"><br>
 </label>
 
     <br><label>
     Sueldo Mensual
-    <input type="number"  name="sm" autofocus  placeholder="Ingrese Sueldo mensual"><br>
+    <input type="number"  name="sm"  placeholder="Ingrese Sueldo mensual"><br>
 </label><br>
 
     <br><input type="submit"  value="Enviar"><br>
